@@ -1,13 +1,11 @@
 # CPSC 312 Project: **Prolog to SQL Transfer Layer**
 
-## We call ourselves:
-teamProlog
 
 ## Team Members:
-+ Mahitab Emara (80537723)
-+ Kenneth Averna (74109653)
-+ Madeleine Penner (57844268)
-+ Tristan Russell (77080802)
++ Mahitab Emara 
++ Kenneth Averna 
++ Madeleine Penner 
++ Tristan Russell 
 
 ## Proposal Link:
 found in Proposal.md
